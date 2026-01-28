@@ -396,12 +396,7 @@ A large-scale open-world sandbox experience where players navigate dual gameplay
 
 ---
 
-### 15.
-
-NOT AVALIABLE RIGHT NOW!
----
-
-## 16. SUCCESS METRICS
+## 15. SUCCESS METRICS
 
 - **Sales Target:** 10+ million copies in first year
 - **Player Retention:** 40% monthly active player rate at month 6
